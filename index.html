@@ -1,20 +1,35 @@
 <html>
 <head></head>
 <body>
-    <script>
 
-        fetch("./vocabulary.csv")
-        .then((res) => res.text())
-        .then((text) => {
-            // do something with "text"
-            console.log(text);
-        })
-        .catch((e) => console.error(e));
+    <input type="number" value="10" id="number_of_elements">
 
-    </script>
+    <span>question</span>
+    <select name="question" id="question_select">
+      <option value="hanzi" selected="selected">hanzi</option>
+      <option value="pinyin">pinyin</option>
+      <option value="translation">translation</option>
+    </select>
 
-    
+    <span>answer</span>
+    <select name="answer" id="answer_select">
+      <option value="hanzi">hanzi</option>
+      <option value="pinyin">pinyin</option>
+      <option value="translation" selected="selected">translation</option>
+    </select>
 
+    <div>
+        <input type="button" value="generate questions answers table" onClick="generateQuestionsAnswersTable()">
+        <input type="button" value="show/hide questions answers corrected table" onClick="showQuestionsAnswersCorrectedTable()">
+        <input type="button" value="show/hide questions answers" onClick="showQuestionsAnswersABTable()">
+    </div>
+
+    <div id="questions_answers_table"></div>
+    <div id="questions_answers_AB_table"></div>
+    <div id="questions_answers_corrected_table"></div>
+
+    <script type="text/javascript" language="javascript" src="vocabulary.js"></script>
+    <script type="text/javascript" language="javascript" src="index.js"></script>
 
 </body>
 </html>
