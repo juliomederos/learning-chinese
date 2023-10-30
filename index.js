@@ -219,6 +219,19 @@ function showQuestionsAnswersABTable(){
 
 }
 
+function showVocabulary(){
+
+    var target_element = document.getElementById("vocabulary");
+
+    if(target_element.innerHTML == ""){
+        var questions_answers_corrected_table = getVocabularyTable(vocabulary);
+        target_element.innerHTML = questions_answers_corrected_table;
+    }else{
+        target_element.innerHTML = "";
+    }
+
+}
+
 //****************************************************
 var vocabulary = data.vocabulary
 
