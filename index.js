@@ -117,6 +117,20 @@ function getQuestionsAnswersCorrectedTable(questions_answers, question, answer){
     return vocabulary_table;
 }
 
+function getVocabularyCorrectedTable(questions_answers, question, answer){
+
+    var vocabulary_table = "<table><th>hanzi</th><th>hanyu</th><th>translation</th>";
+
+    for(var i = 0; i < questions_answers.length; i++){
+        var row = "<tr>" + "<td>" + questions_answers[i]["question"]["hanzi"] + "</td>" + "<td>" + questions_answers[i]["question"]["pinyin"] + "</td>" + "<td>" + questions_answers[i]["question"]["translation"] + "</td>" + "</tr>";
+        vocabulary_table = vocabulary_table + row;
+    }
+
+    vocabulary_table = vocabulary_table + "</table>";
+
+    return vocabulary_table;
+}
+
 function getQuestionsAnswersCorrectedRespectOrderTable(questions_answers, question, answer){
 
     var vocabulary_table = "<table> <th>A</th> <th>" + question + "</th> <th>B</th> <th>" + answer + "</th>";
@@ -143,6 +157,20 @@ function showQuestionsAnswersCorrectedTable(){
     }
 
 }
+
+function showVocabularyCorrectedTable(){
+
+    var target_element = document.getElementById("vocabulary_corrected_table");
+
+    if(target_element.innerHTML == ""){
+        var questions_answers_corrected_table = getVocabularyCorrectedTable(questions_answers, question, answer);
+        target_element.innerHTML = questions_answers_corrected_table;
+    }else{
+        target_element.innerHTML = "";
+    }
+
+}
+
 
 function generateQuestionsAnswersTable(){
 
