@@ -1,13 +1,13 @@
-hanzi,pinyin,translation
-胡利奥,hú lì ào,Julio
-拼音 是 什么？,pīnyīn shì shénme?,que es el pinyin?
-你好,nǐ hǎo,hola
-谢谢,xièxiè,gracias
-不 客气,bù kèqi,de nada
-对不起,duì bu qǐ,lo siento
-没关系,méi guānxi,no importa/no pasa nada/está bien
-再见,zài jiàn,adiós
-大家 好,dàjiā hǎo,
+hanzi,pinyin,translation,tipo de entrada
+胡利奥,hú lì ào,Julio,palabra
+拼音 是 什么？,pīnyīn shì shénme?,que es el pinyin?,frase
+你好,nǐ hǎo,hola,palabra
+谢谢,xièxiè,gracias,palabra
+不 客气,bù kèqi,de nada,palabra
+对不起,duì bu qǐ,lo siento,palabra
+没关系,méi guānxi,no importa/no pasa nada/está bien,palabra
+再见,zài jiàn,adiós,palabra
+大家 好,dàjiā hǎo,,
 早上好,zǎo shang hǎo,buenos días
 好的 / 好 / 行,hǎo  de / hǎo / xíng,ok / vale
 没 问题,méi wèntí,no hay problema
@@ -55,3 +55,42 @@ hanzi,pinyin,translation
 男的,nánde,el hombre
 中文,zhōngwén,idioma chino
 是,shì,ser
+你 是 哪里 人？,nǐ shì nǎli rén？,de donde eres?
+哪,nǎ,cual
+国,guó,país
+人,rén,persona
+哪里,nǎli,donde
+中国,zhōngguó,China
+西班牙,Xībānyā,España
+英国,yīngguó,Reino Unido
+日本,Rìběn,Japón
+美国,měiguó,Estados Unidos
+德国,déguó,Alemania
+住,zhù,vivir
+在,zài,en
+伦敦,Lúndūn,Londres
+北京,Běijīng,Pekín
+上海,Shànghǎi,Shangái
+你 是 哪 国 人？,nǐ shì nǎ guó rén？,de qué país eres?
+古巴,Gǔbā,Cuba
+我 是 古巴 人,wǒ shì Gǔbā rén,soy de Cuba / soy cubano
+马德里,Mǎdélǐrén,Madrid
+巴塞罗那,Bāsāiluónàrén,Barcelona
+马,ma,... Partícula interrogativa para preguntas de si/no
+对,duì,si 
+不,bú,no
+好莱坞,Hǎoláiwū,Hollywood
+明星,míngxīng,estrella de cine
+南非,nánfēi,Sudáfrica
+新西兰,xīnxīlán,Nueva Zelanda
+悉尼,xīní,Sidney
+墨尔本,Mò’ěrběn,Melbourne
+什么,shén me,qué
+口,kǒu,boca
+哪,nǎ,donde
+呢,ne,partícula interrogativA
+日,rì,sol
+明,míng,brillante
+星,xīng,estrella
+王,wáng,rey
+玉,yù,Jade
