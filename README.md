@@ -9,3 +9,7 @@ The page shows a number of words / sentences from the vocabulary.csv file and co
 
 Right now the correction is manually. The page / app shows the correct responses when the button "show/hide questions answers" or "show/hide questions answers corrected table" are clicked.
 
+** TODO
+
+include hanzi writer quiz as in https://hanziwriter.org/demo.html
+https://makemeahanzi.herokuapp.com/#/codepoint/24037

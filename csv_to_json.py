@@ -13,7 +13,7 @@ with open(csv_file_path) as csv_file:
             row[key] = rows[key]
         data["vocabulary"].append(row)
 
-print(data)
+# print(data)
 print(json.dumps(data, indent=4, ensure_ascii=False))
 
 with open(json_file_path, "w", encoding="utf-8") as json_file:

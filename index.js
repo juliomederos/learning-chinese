@@ -187,6 +187,8 @@ function generateQuestionsAnswersTable(){
 
     document.getElementById("questions_answers_corrected_table").innerHTML = "";
     document.getElementById("questions_answers_AB_table").innerHTML = "";
+    document.getElementById("vocabulary_corrected_table").innerHTML = "";
+    document.getElementById("vocabulary").innerHTML = "";
 
 }
 

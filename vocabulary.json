@@ -2,573 +2,653 @@
     "vocabulary": [
         {
             "hanzi": "胡利奥",
-            "pinyin": "hú lì ào",
-            "translation": "Julio",
-            "tipo de entrada": "palabra"
+            "pinyin": " hú lì ào",
+            "translation": " Julio"
         },
         {
             "hanzi": "拼音 是 什么？",
-            "pinyin": "pīnyīn shì shénme?",
-            "translation": "que es el pinyin?",
-            "tipo de entrada": "frase"
+            "pinyin": " pīnyīn shì shénme?",
+            "translation": " que es el pinyin?"
         },
         {
             "hanzi": "你好",
             "pinyin": "nǐ hǎo",
-            "translation": "hola",
-            "tipo de entrada": "palabra"
+            "translation": "hola"
         },
         {
             "hanzi": "谢谢",
-            "pinyin": "xièxiè",
-            "translation": "gracias",
-            "tipo de entrada": "palabra"
+            "pinyin": " xièxiè",
+            "translation": " gracias"
         },
         {
             "hanzi": "不 客气",
             "pinyin": "bù kèqi",
-            "translation": "de nada",
-            "tipo de entrada": "palabra"
+            "translation": " de nada"
         },
         {
             "hanzi": "对不起",
             "pinyin": "duì bu qǐ",
-            "translation": "lo siento",
-            "tipo de entrada": "palabra"
+            "translation": "lo siento"
         },
         {
             "hanzi": "没关系",
             "pinyin": "méi guānxi",
-            "translation": "no importa/no pasa nada/está bien",
-            "tipo de entrada": "palabra"
+            "translation": "no importa/no pasa nada/está bien"
         },
         {
             "hanzi": "再见",
             "pinyin": "zài jiàn",
-            "translation": "adiós",
-            "tipo de entrada": "palabra"
+            "translation": "adiós"
         },
         {
             "hanzi": "大家 好",
             "pinyin": "dàjiā hǎo",
-            "translation": "",
-            "tipo de entrada": ""
+            "translation": "hola a todos"
         },
         {
             "hanzi": "早上好",
             "pinyin": "zǎo shang hǎo",
-            "translation": "buenos días",
-            "tipo de entrada": null
+            "translation": "buenos días"
         },
         {
             "hanzi": "好的 / 好 / 行",
             "pinyin": "hǎo  de / hǎo / xíng",
-            "translation": "ok / vale",
-            "tipo de entrada": null
+            "translation": " ok / vale"
         },
         {
             "hanzi": "没 问题",
             "pinyin": "méi wèntí",
-            "translation": "no hay problema",
-            "tipo de entrada": null
+            "translation": "no hay problema"
         },
         {
             "hanzi": "我 不 知道",
-            "pinyin": "wǒ bù zhīdào",
-            "translation": "no lo sé",
-            "tipo de entrada": null
+            "pinyin": " wǒ bù zhīdào",
+            "translation": "no lo sé"
         },
         {
             "hanzi": "这是什么",
             "pinyin": "zhè shì shénme",
-            "translation": "que es esto?",
-            "tipo de entrada": null
+            "translation": "que es esto?"
         },
         {
             "hanzi": "对 ",
             "pinyin": "duì",
-            "translation": "correcto! ",
-            "tipo de entrada": null
+            "translation": "correcto! "
         },
         {
             "hanzi": "请进",
             "pinyin": "Qǐng jìn",
-            "translation": "por favor entra",
-            "tipo de entrada": null
+            "translation": "por favor entra"
         },
         {
             "hanzi": "请坐",
             "pinyin": "qǐng zuó",
-            "translation": "por favor siéntate",
-            "tipo de entrada": null
+            "translation": "por favor siéntate"
         },
         {
             "hanzi": "请 再 说 一 遍",
             "pinyin": "qǐng zài shuō yī bián",
-            "translation": "por favor repite",
-            "tipo de entrada": null
+            "translation": "por favor repite"
         },
         {
             "hanzi": "我 不 明 白",
             "pinyin": "wǒ bù míng bai",
-            "translation": "no entiendo!",
-            "tipo de entrada": null
+            "translation": "no entiendo!"
         },
         {
             "hanzi": "我 有 一个 问题",
             "pinyin": "wǒ yǒu yígè wènti",
-            "translation": "tengo una pregunta",
-            "tipo de entrada": null
+            "translation": "tengo una pregunta"
         },
         {
             "hanzi": "... 怎 么 说 ？",
-            "pinyin": "... zěn me shuō？",
-            "translation": "... como se dice?",
-            "tipo de entrada": null
+            "pinyin": " ... zěn me shuō？",
+            "translation": " ... como se dice?"
         },
         {
             "hanzi": "零",
             "pinyin": "líng",
-            "translation": "cero",
-            "tipo de entrada": null
+            "translation": " cero"
         },
         {
             "hanzi": "一",
             "pinyin": "yī",
-            "translation": "uno",
-            "tipo de entrada": null
+            "translation": "uno"
         },
         {
             "hanzi": "二",
-            "pinyin": "èr",
-            "translation": "dos",
-            "tipo de entrada": null
+            "pinyin": " èr",
+            "translation": "dos"
         },
         {
             "hanzi": "三",
             "pinyin": "sān",
-            "translation": "tres",
-            "tipo de entrada": null
+            "translation": "tres"
         },
         {
             "hanzi": "四",
             "pinyin": "sì",
-            "translation": "cuatro",
-            "tipo de entrada": null
+            "translation": "cuatro"
         },
         {
             "hanzi": "五",
             "pinyin": "wǔ",
-            "translation": "cinco",
-            "tipo de entrada": null
+            "translation": "cinco"
         },
         {
             "hanzi": "六",
             "pinyin": "liǔ",
-            "translation": "seis",
-            "tipo de entrada": null
+            "translation": "seis"
         },
         {
             "hanzi": "七",
             "pinyin": "qī",
-            "translation": "siete",
-            "tipo de entrada": null
+            "translation": "siete"
         },
         {
             "hanzi": "八",
             "pinyin": "bā",
-            "translation": "ocho",
-            "tipo de entrada": null
+            "translation": "ocho"
         },
         {
             "hanzi": "九",
             "pinyin": "jiǔ",
-            "translation": "nueve",
-            "tipo de entrada": null
+            "translation": "nueve"
         },
         {
             "hanzi": "十",
             "pinyin": "shí",
-            "translation": "diez",
-            "tipo de entrada": null
+            "translation": "diez"
         },
         {
             "hanzi": "我",
             "pinyin": "wǒ",
-            "translation": "yo",
-            "tipo de entrada": null
+            "translation": "yo"
         },
         {
             "hanzi": "你",
             "pinyin": "nǐ",
-            "translation": "tu",
-            "tipo de entrada": null
+            "translation": "tu"
         },
         {
             "hanzi": "他 / 她 / 它",
             "pinyin": "tā",
-            "translation": "el / ella / ello",
-            "tipo de entrada": null
+            "translation": "el / ella / ello"
         },
         {
             "hanzi": "好",
             "pinyin": "hǎo",
-            "translation": "bien/bueno",
-            "tipo de entrada": null
+            "translation": "bien/bueno"
         },
         {
             "hanzi": "叫",
             "pinyin": "jiào",
-            "translation": "llamarse",
-            "tipo de entrada": null
+            "translation": "llamarse"
         },
         {
             "hanzi": "大家",
             "pinyin": "dàjiā",
-            "translation": "todos",
-            "tipo de entrada": null
+            "translation": "todos"
         },
         {
             "hanzi": "认识",
             "pinyin": "rènshi",
-            "translation": "conocer",
-            "tipo de entrada": null
+            "translation": "conocer"
         },
         {
             "hanzi": "很",
             "pinyin": "hěn",
-            "translation": "muy",
-            "tipo de entrada": null
+            "translation": "muy"
         },
         {
             "hanzi": "什么",
             "pinyin": "shénme",
-            "translation": "que",
-            "tipo de entrada": null
+            "translation": " que"
         },
         {
             "hanzi": "名字",
             "pinyin": "míngzi",
-            "translation": "nombre",
-            "tipo de entrada": null
+            "translation": "nombre"
         },
         {
             "hanzi": "是",
             "pinyin": "shì",
-            "translation": "ser",
-            "tipo de entrada": null
+            "translation": "ser"
         },
         {
             "hanzi": "高兴",
             "pinyin": "gāoxìng",
-            "translation": "feliz/contento",
-            "tipo de entrada": null
+            "translation": "feliz/contento"
         },
         {
             "hanzi": "姓",
             "pinyin": "xìng",
-            "translation": "apellido / apellidarse",
-            "tipo de entrada": null
+            "translation": "apellido / apellidarse"
         },
         {
             "hanzi": "呢",
             "pinyin": "ne",
-            "translation": "y ... ?",
-            "tipo de entrada": null
+            "translation": " y ... ?"
         },
         {
             "hanzi": "请",
             "pinyin": "qǐng",
-            "translation": "por favor",
-            "tipo de entrada": null
+            "translation": "por favor"
         },
         {
             "hanzi": "问",
             "pinyin": "wèn",
-            "translation": "preguntar",
-            "tipo de entrada": null
+            "translation": "preguntar"
         },
         {
             "hanzi": "请问",
             "pinyin": "qǐng wèn",
-            "translation": "quería preguntar",
-            "tipo de entrada": null
+            "translation": "quería preguntar"
         },
         {
             "hanzi": "我们",
             "pinyin": "wǒmen",
-            "translation": "nosotros",
-            "tipo de entrada": null
+            "translation": "nosotros"
         },
         {
             "hanzi": "你 叫 什么 名字 ？",
-            "pinyin": "nǐ jiào shénme míngzi？",
-            "translation": "como te llamás? Cuál es tu nombre?",
-            "tipo de entrada": null
+            "pinyin": " nǐ jiào shénme míngzi？",
+            "translation": " como te llamás? Cuál es tu nombre?"
         },
         {
             "hanzi": "你 姓 什么？",
-            "pinyin": "nǐ Xìng shénme？",
-            "translation": "cual es tu apellido?",
-            "tipo de entrada": null
+            "pinyin": " nǐ Xìng shénme？",
+            "translation": " cual es tu apellido?"
         },
         {
             "hanzi": "老师",
             "pinyin": "lǎoshī",
-            "translation": "profesor ",
-            "tipo de entrada": null
+            "translation": "profesor "
         },
         {
             "hanzi": "男的",
             "pinyin": "nánde",
-            "translation": "el hombre",
-            "tipo de entrada": null
+            "translation": "el hombre"
         },
         {
             "hanzi": "中文",
             "pinyin": "zhōngwén",
-            "translation": "idioma chino",
-            "tipo de entrada": null
+            "translation": "idioma chino"
         },
         {
             "hanzi": "是",
             "pinyin": "shì",
-            "translation": "ser",
-            "tipo de entrada": null
+            "translation": "ser"
         },
         {
             "hanzi": "你 是 哪里 人？",
-            "pinyin": "nǐ shì nǎli rén？",
-            "translation": "de donde eres?",
-            "tipo de entrada": null
+            "pinyin": " nǐ shì nǎli rén？",
+            "translation": " de donde eres?"
         },
         {
             "hanzi": "哪",
             "pinyin": "nǎ",
-            "translation": "cual",
-            "tipo de entrada": null
+            "translation": "cual"
         },
         {
             "hanzi": "国",
             "pinyin": "guó",
-            "translation": "país",
-            "tipo de entrada": null
+            "translation": "país"
         },
         {
             "hanzi": "人",
             "pinyin": "rén",
-            "translation": "persona",
-            "tipo de entrada": null
+            "translation": "persona"
         },
         {
             "hanzi": "哪里",
             "pinyin": "nǎli",
-            "translation": "donde",
-            "tipo de entrada": null
+            "translation": "donde"
         },
         {
             "hanzi": "中国",
             "pinyin": "zhōngguó",
-            "translation": "China",
-            "tipo de entrada": null
+            "translation": "China"
         },
         {
             "hanzi": "西班牙",
             "pinyin": "Xībānyā",
-            "translation": "España",
-            "tipo de entrada": null
+            "translation": "España"
         },
         {
             "hanzi": "英国",
             "pinyin": "yīngguó",
-            "translation": "Reino Unido",
-            "tipo de entrada": null
+            "translation": "Reino Unido"
         },
         {
             "hanzi": "日本",
             "pinyin": "Rìběn",
-            "translation": "Japón",
-            "tipo de entrada": null
+            "translation": "Japón"
         },
         {
             "hanzi": "美国",
             "pinyin": "měiguó",
-            "translation": "Estados Unidos",
-            "tipo de entrada": null
+            "translation": "Estados Unidos"
         },
         {
             "hanzi": "德国",
             "pinyin": "déguó",
-            "translation": "Alemania",
-            "tipo de entrada": null
+            "translation": "Alemania"
         },
         {
             "hanzi": "住",
             "pinyin": "zhù",
-            "translation": "vivir",
-            "tipo de entrada": null
+            "translation": "vivir"
         },
         {
             "hanzi": "在",
             "pinyin": "zài",
-            "translation": "en",
-            "tipo de entrada": null
+            "translation": "en"
         },
         {
             "hanzi": "伦敦",
             "pinyin": "Lúndūn",
-            "translation": "Londres",
-            "tipo de entrada": null
+            "translation": "Londres"
         },
         {
             "hanzi": "北京",
             "pinyin": "Běijīng",
-            "translation": "Pekín",
-            "tipo de entrada": null
+            "translation": "Pekín"
         },
         {
             "hanzi": "上海",
             "pinyin": "Shànghǎi",
-            "translation": "Shangái",
-            "tipo de entrada": null
+            "translation": "Shangái"
         },
         {
             "hanzi": "你 是 哪 国 人？",
-            "pinyin": "nǐ shì nǎ guó rén？",
-            "translation": "de qué país eres?",
-            "tipo de entrada": null
+            "pinyin": " nǐ shì nǎ guó rén？",
+            "translation": " de qué país eres?"
         },
         {
             "hanzi": "古巴",
             "pinyin": "Gǔbā",
-            "translation": "Cuba",
-            "tipo de entrada": null
+            "translation": "Cuba"
         },
         {
             "hanzi": "我 是 古巴 人",
             "pinyin": "wǒ shì Gǔbā rén",
-            "translation": "soy de Cuba / soy cubano",
-            "tipo de entrada": null
+            "translation": "soy de Cuba / soy cubano"
         },
         {
             "hanzi": "马德里",
             "pinyin": "Mǎdélǐrén",
-            "translation": "Madrid",
-            "tipo de entrada": null
+            "translation": "Madrid"
         },
         {
             "hanzi": "巴塞罗那",
             "pinyin": "Bāsāiluónàrén",
-            "translation": "Barcelona",
-            "tipo de entrada": null
+            "translation": "Barcelona"
         },
         {
             "hanzi": "马",
             "pinyin": "ma",
-            "translation": "... Partícula interrogativa para preguntas de si/no",
-            "tipo de entrada": null
+            "translation": "... Partícula interrogativa para preguntas de si/no"
         },
         {
             "hanzi": "对",
             "pinyin": "duì",
-            "translation": "si ",
-            "tipo de entrada": null
+            "translation": "si "
         },
         {
             "hanzi": "不",
             "pinyin": "bú",
-            "translation": "no",
-            "tipo de entrada": null
+            "translation": "no"
         },
         {
             "hanzi": "好莱坞",
             "pinyin": "Hǎoláiwū",
-            "translation": "Hollywood",
-            "tipo de entrada": null
+            "translation": "Hollywood"
         },
         {
             "hanzi": "明星",
             "pinyin": "míngxīng",
-            "translation": "estrella de cine",
-            "tipo de entrada": null
+            "translation": "estrella de cine"
         },
         {
             "hanzi": "南非",
             "pinyin": "nánfēi",
-            "translation": "Sudáfrica",
-            "tipo de entrada": null
+            "translation": "Sudáfrica"
         },
         {
             "hanzi": "新西兰",
             "pinyin": "xīnxīlán",
-            "translation": "Nueva Zelanda",
-            "tipo de entrada": null
+            "translation": "Nueva Zelanda"
         },
         {
             "hanzi": "悉尼",
             "pinyin": "xīní",
-            "translation": "Sidney",
-            "tipo de entrada": null
+            "translation": " Sidney"
         },
         {
             "hanzi": "墨尔本",
             "pinyin": "Mò’ěrběn",
-            "translation": "Melbourne",
-            "tipo de entrada": null
+            "translation": "Melbourne"
         },
         {
             "hanzi": "什么",
             "pinyin": "shén me",
-            "translation": "qué",
-            "tipo de entrada": null
+            "translation": " qué"
         },
         {
             "hanzi": "口",
             "pinyin": "kǒu",
-            "translation": "boca",
-            "tipo de entrada": null
+            "translation": "boca"
         },
         {
             "hanzi": "哪",
             "pinyin": "nǎ",
-            "translation": "donde",
-            "tipo de entrada": null
+            "translation": "donde"
         },
         {
             "hanzi": "呢",
             "pinyin": "ne",
-            "translation": "partícula interrogativA",
-            "tipo de entrada": null
+            "translation": "partícula interrogativA"
         },
         {
             "hanzi": "日",
             "pinyin": "rì",
-            "translation": "sol",
-            "tipo de entrada": null
+            "translation": "sol"
         },
         {
             "hanzi": "明",
             "pinyin": "míng",
-            "translation": "brillante",
-            "tipo de entrada": null
+            "translation": "brillante"
         },
         {
             "hanzi": "星",
             "pinyin": "xīng",
-            "translation": "estrella",
-            "tipo de entrada": null
+            "translation": " estrella"
         },
         {
             "hanzi": "王",
             "pinyin": "wáng",
-            "translation": "rey",
-            "tipo de entrada": null
+            "translation": "rey"
         },
         {
             "hanzi": "玉",
             "pinyin": "yù",
-            "translation": "Jade",
-            "tipo de entrada": null
+            "translation": "Jade"
+        },
+        {
+            "hanzi": "你 做 什么 工作 ？",
+            "pinyin": " nǐ zuò shénme gōngzuò？",
+            "translation": " en qué trabajas"
+        },
+        {
+            "hanzi": "女",
+            "pinyin": "Nǚ",
+            "translation": " femenino / mujer"
+        },
+        {
+            "hanzi": "爸爸",
+            "pinyin": "bàba",
+            "translation": "padre"
+        },
+        {
+            "hanzi": "妈妈",
+            "pinyin": "māma",
+            "translation": "madre"
+        },
+        {
+            "hanzi": "儿子",
+            "pinyin": "érzi",
+            "translation": " hijo"
+        },
+        {
+            "hanzi": "女儿",
+            "pinyin": "Nǚ'ér",
+            "translation": " hija"
+        },
+        {
+            "hanzi": "哥哥",
+            "pinyin": "gēge",
+            "translation": "hermano mayor"
+        },
+        {
+            "hanzi": "姐姐",
+            "pinyin": "jǐejie",
+            "translation": "hermana mayor"
+        },
+        {
+            "hanzi": "弟弟",
+            "pinyin": "dìdi",
+            "translation": "hermano menor"
+        },
+        {
+            "hanzi": "妹妹",
+            "pinyin": "mèimei",
+            "translation": "hermano menor"
+        },
+        {
+            "hanzi": "先生",
+            "pinyin": "xiānsheng",
+            "translation": "señor/marido"
+        },
+        {
+            "hanzi": "太太",
+            "pinyin": "tàitai",
+            "translation": "señora/esposa"
+        },
+        {
+            "hanzi": "家",
+            "pinyin": "jiā",
+            "translation": "familia/casa"
+        },
+        {
+            "hanzi": "有",
+            "pinyin": "yǒu",
+            "translation": "haber/tener"
+        },
+        {
+            "hanzi": "几",
+            "pinyin": "jǐ",
+            "translation": "cuántos"
+        },
+        {
+            "hanzi": "口",
+            "pinyin": "kǒu",
+            "translation": "clasificador - palabra de medida"
+        },
+        {
+            "hanzi": "和",
+            "pinyin": "hé",
+            "translation": "y"
+        },
+        {
+            "hanzi": "你 家 有 几 口 人？",
+            "pinyin": " nǐ jiā yǒu jǐ kǒu rén ？",
+            "translation": "tu familia tiene cuántas personas ?"
+        },
+        {
+            "hanzi": "我 家 有 三 口 人",
+            "pinyin": "wǒ jiā yǒu sān kǒu rén",
+            "translation": "mi familia tiene 3 personas"
+        },
+        {
+            "hanzi": "工作",
+            "pinyin": "gōngzuò",
+            "translation": "trabajar/trabajo"
+        },
+        {
+            "hanzi": "学生",
+            "pinyin": "xuésheng",
+            "translation": "estudiante"
+        },
+        {
+            "hanzi": "记者",
+            "pinyin": "jìzhě",
+            "translation": "periodista"
+        },
+        {
+            "hanzi": "医生",
+            "pinyin": "yīsheng",
+            "translation": "doctor"
+        },
+        {
+            "hanzi": "老师",
+            "pinyin": "lǎoshī",
+            "translation": "profesor/maestro"
+        },
+        {
+            "hanzi": "护士",
+            "pinyin": "hùshi",
+            "translation": "enfermera"
+        },
+        {
+            "hanzi": "做",
+            "pinyin": "zuò",
+            "translation": "hacer"
+        },
+        {
+            "hanzi": "在",
+            "pinyin": "zài",
+            "translation": "estar/en"
+        },
+        {
+            "hanzi": "医院",
+            "pinyin": "yīyuàn",
+            "translation": "hospital"
+        },
+        {
+            "hanzi": "学校",
+            "pinyin": "xuéxiào",
+            "translation": "escuela"
+        },
+        {
+            "hanzi": "公司",
+            "pinyin": "gōngzī",
+            "translation": "empresa"
+        },
+        {
+            "hanzi": "大学",
+            "pinyin": "dàxué",
+            "translation": "universidad"
+        },
+        {
+            "hanzi": "也",
+            "pinyin": "yě",
+            "translation": "también"
+        },
+        {
+            "hanzi": "都",
+            "pinyin": "dǒu",
+            "translation": "todo/ambos"
+        },
+        {
+            "hanzi": "的",
+            "pinyin": "de",
+            "translation": "'s"
+        },
+        {
+            "hanzi": "照片",
+            "pinyin": "zhàopiàn",
+            "translation": "foto"
         }
     ]
 }
