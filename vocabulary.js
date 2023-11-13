@@ -73,7 +73,7 @@ var data = {
         {
             "hanzi": "对 ",
             "pinyin": "duì",
-            "translation": "correcto! "
+            "translation": "correcto!"
         },
         {
             "hanzi": "请进",
@@ -263,7 +263,7 @@ var data = {
         {
             "hanzi": "老师",
             "pinyin": "lǎoshī",
-            "translation": "profesor "
+            "translation": "profesor"
         },
         {
             "hanzi": "男的",
@@ -393,7 +393,7 @@ var data = {
         {
             "hanzi": "对",
             "pinyin": "duì",
-            "translation": "si "
+            "translation": "si"
         },
         {
             "hanzi": "不",
@@ -597,7 +597,7 @@ var data = {
         },
         {
             "hanzi": "护士",
-            "pinyin": "hùshi",
+            "pinyin": "hùshì",
             "translation": "enfermera"
         },
         {
@@ -622,7 +622,7 @@ var data = {
         },
         {
             "hanzi": "公司",
-            "pinyin": "gōngzī",
+            "pinyin": "gōngsī",
             "translation": "empresa"
         },
         {
@@ -649,6 +649,81 @@ var data = {
             "hanzi": "照片",
             "pinyin": "zhàopiàn",
             "translation": "foto"
+        },
+        {
+            "hanzi": "生",
+            "pinyin": "Shēng",
+            "translation": "nacido"
+        },
+        {
+            "hanzi": "對",
+            "pinyin": "duì",
+            "translation": "correcto/bien"
+        },
+        {
+            "hanzi": "这",
+            "pinyin": "zhè",
+            "translation": "este"
+        },
+        {
+            "hanzi": "但是",
+            "pinyin": "dànshì",
+            "translation": "pero"
+        },
+        {
+            "hanzi": "同学",
+            "pinyin": "tóngxué",
+            "translation": "compañero de clase"
+        },
+        {
+            "hanzi": "朋友",
+            "pinyin": "péngyou",
+            "translation": "amigo"
+        },
+        {
+            "hanzi": "班",
+            "pinyin": "bān",
+            "translation": "clase"
+        },
+        {
+            "hanzi": "学校",
+            "pinyin": "xuéxiào",
+            "translation": "escuela"
+        },
+        {
+            "hanzi": "书",
+            "pinyin": "shū",
+            "translation": "libro"
+        },
+        {
+            "hanzi": "杯子",
+            "pinyin": "bēizi",
+            "translation": "vaso/copa"
+        },
+        {
+            "hanzi": "衣服",
+            "pinyin": "yīfu",
+            "translation": "ropa"
+        },
+        {
+            "hanzi": "安",
+            "pinyin": "ān",
+            "translation": " paz"
+        },
+        {
+            "hanzi": "大",
+            "pinyin": "dà",
+            "translation": "grande"
+        },
+        {
+            "hanzi": "太",
+            "pinyin": "tái",
+            "translation": "demasiado"
+        },
+        {
+            "hanzi": "小",
+            "pinyin": "xiǎo",
+            "translation": "pequeño"
         }
     ]
 };
