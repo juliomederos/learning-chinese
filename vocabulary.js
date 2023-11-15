@@ -724,6 +724,91 @@ var data = {
             "hanzi": "小",
             "pinyin": "xiǎo",
             "translation": "pequeño"
+        },
+        {
+            "hanzi": "个",
+            "pinyin": "ge",
+            "translation": "clasificador persona"
+        },
+        {
+            "hanzi": "一个学生",
+            "pinyin": "yī gè xuéshēng",
+            "translation": " un estudiante"
+        },
+        {
+            "hanzi": "两个学生",
+            "pinyin": "Liǎng gè xuéshēng",
+            "translation": " dos estudiantes"
+        },
+        {
+            "hanzi": "杯",
+            "pinyin": "Bēi",
+            "translation": "taza"
+        },
+        {
+            "hanzi": "本",
+            "pinyin": "Běn",
+            "translation": "libro"
+        },
+        {
+            "hanzi": "张",
+            "pinyin": " Zhāng",
+            "translation": "abierto"
+        },
+        {
+            "hanzi": "门",
+            "pinyin": "Mén",
+            "translation": "puerta"
+        },
+        {
+            "hanzi": "朋友",
+            "pinyin": " Péngyǒu",
+            "translation": "amigo"
+        },
+        {
+            "hanzi": "同事",
+            "pinyin": "tóngshì",
+            "translation": "compañero de trabajo"
+        },
+        {
+            "hanzi": "同学",
+            "pinyin": "tóngxué",
+            "translation": "compañero de clase"
+        },
+        {
+            "hanzi": "小狗",
+            "pinyin": "xiǎogǒu",
+            "translation": "perrito"
+        },
+        {
+            "hanzi": "小猫",
+            "pinyin": "xiǎomǎo",
+            "translation": "gatito"
+        },
+        {
+            "hanzi": "饭馆",
+            "pinyin": "fàngguǎn",
+            "translation": "restaurante"
+        },
+        {
+            "hanzi": "银行",
+            "pinyin": "yíngháng",
+            "translation": "banco"
+        },
+        {
+            "hanzi": "超市",
+            "pinyin": "chāoshì",
+            "translation": "supermercado"
+        },
+        {
+            "hanzi": "商店",
+            "pinyin": "shāngdiàn",
+            "translation": "tienda"
+        },
+        {
+            "hanzi": "只",
+            "pinyin": "zhī",
+            "translation": "clasificador para perro/gato"
         }
     ]
 };
