@@ -809,6 +809,116 @@ var data = {
             "hanzi": "只",
             "pinyin": "zhī",
             "translation": "clasificador para perro/gato"
+        },
+        {
+            "hanzi": "你 怎么 样 ？",
+            "pinyin": "nǐ zěnme yàng",
+            "translation": "que tal estás?"
+        },
+        {
+            "hanzi": "忙",
+            "pinyin": "máng",
+            "translation": "ocupado"
+        },
+        {
+            "hanzi": "累",
+            "pinyin": "lèi",
+            "translation": "cansado"
+        },
+        {
+            "hanzi": "冷",
+            "pinyin": "lěng",
+            "translation": "frío"
+        },
+        {
+            "hanzi": "热",
+            "pinyin": "rè",
+            "translation": "caliente"
+        },
+        {
+            "hanzi": "多大",
+            "pinyin": "duōdà",
+            "translation": "cuántos años"
+        },
+        {
+            "hanzi": "多",
+            "pinyin": "duō",
+            "translation": "mucho"
+        },
+        {
+            "hanzi": "大",
+            "pinyin": "dà",
+            "translation": "mayor/grande"
+        },
+        {
+            "hanzi": "今年",
+            "pinyin": "jīnnián",
+            "translation": "este año"
+        },
+        {
+            "hanzi": "岁",
+            "pinyin": "suì",
+            "translation": "año para la edad"
+        },
+        {
+            "hanzi": "高",
+            "pinyin": "gāo",
+            "translation": "alto"
+        },
+        {
+            "hanzi": "矮",
+            "pinyin": "ǎi",
+            "translation": "bajo"
+        },
+        {
+            "hanzi": "老",
+            "pinyin": "lǎo",
+            "translation": "viejo"
+        },
+        {
+            "hanzi": "年轻",
+            "pinyin": "niánqīng",
+            "translation": "joven"
+        },
+        {
+            "hanzi": "酷",
+            "pinyin": "kù",
+            "translation": "cool"
+        },
+        {
+            "hanzi": "帅",
+            "pinyin": "shuài",
+            "translation": "guapo"
+        },
+        {
+            "hanzi": "漂亮",
+            "pinyin": "piàoliang",
+            "translation": "guapa"
+        },
+        {
+            "hanzi": "可爱",
+            "pinyin": "Kě'ài",
+            "translation": "mono/gracioso/encantador"
+        },
+        {
+            "hanzi": "真",
+            "pinyin": "zhēn",
+            "translation": "verdaderamente"
+        },
+        {
+            "hanzi": "岁",
+            "pinyin": "suì",
+            "translation": " años de edad"
+        },
+        {
+            "hanzi": "你 今年 多 大？",
+            "pinyin": " nǐ jīnnián duō dà？",
+            "translation": " Cuantos años tienes?"
+        },
+        {
+            "hanzi": "我 今年 33 岁",
+            "pinyin": "wǒ jīnnián 33 suì",
+            "translation": "yo tengo 33 años"
         }
     ]
-};
+}
