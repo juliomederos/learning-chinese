@@ -919,6 +919,86 @@
             "hanzi": "我 今年 33 岁",
             "pinyin": "wǒ jīnnián 33 suì",
             "translation": "yo tengo 33 años"
+        },
+        {
+            "hanzi": "我 今年 33 岁",
+            "pinyin": "wǒ jīnnián 33 suì",
+            "translation": "yo tengo 33 años"
+        },
+        {
+            "hanzi": "困",
+            "pinyin": "kùn",
+            "translation": "somnoliento"
+        },
+        {
+            "hanzi": "饿",
+            "pinyin": "è",
+            "translation": "hambriento"
+        },
+        {
+            "hanzi": "饱",
+            "pinyin": "bǎo",
+            "translation": "lleno"
+        },
+        {
+            "hanzi": "谁",
+            "pinyin": "shéi/shuí",
+            "translation": "quien"
+        },
+        {
+            "hanzi": "朋友",
+            "pinyin": "péngyou",
+            "translation": "amigo"
+        },
+        {
+            "hanzi": "同事",
+            "pinyin": "tóngshì",
+            "translation": "compañero de trabajo"
+        },
+        {
+            "hanzi": "同学",
+            "pinyin": "tóngxué",
+            "translation": "compañero de clase"
+        },
+        {
+            "hanzi": "最",
+            "pinyin": "zuì",
+            "translation": "el más"
+        },
+        {
+            "hanzi": "喜欢",
+            "pinyin": "xǐhuan",
+            "translation": "gustar"
+        },
+        {
+            "hanzi": "运动员",
+            "pinyin": "yùndònɡyuán",
+            "translation": "deportista"
+        },
+        {
+            "hanzi": "运动",
+            "pinyin": "yùndònɡ",
+            "translation": "deporte"
+        },
+        {
+            "hanzi": "篮球",
+            "pinyin": "lánqiú",
+            "translation": "baloncesto"
+        },
+        {
+            "hanzi": "足球",
+            "pinyin": "zúqiú",
+            "translation": "foolball"
+        },
+        {
+            "hanzi": "网球",
+            "pinyin": "wǎnɡqiú",
+            "translation": "tenis"
+        },
+        {
+            "hanzi": "游泳",
+            "pinyin": "yóuyǒnɡ",
+            "translation": "natación"
         }
     ]
 }
