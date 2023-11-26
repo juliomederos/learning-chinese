@@ -999,6 +999,86 @@ var data = {
             "hanzi": "游泳",
             "pinyin": "yóuyǒnɡ",
             "translation": "natación"
+        },
+        {
+            "hanzi": "听",
+            "pinyin": "tīng",
+            "translation": "escuchar"
+        },
+        {
+            "hanzi": "说",
+            "pinyin": "shuō",
+            "translation": "hablar/explicar"
+        },
+        {
+            "hanzi": "读",
+            "pinyin": "dú",
+            "translation": "leer"
+        },
+        {
+            "hanzi": "写",
+            "pinyin": "xiě",
+            "translation": "escribir"
+        },
+        {
+            "hanzi": "页",
+            "pinyin": "yè",
+            "translation": "página"
+        },
+        {
+            "hanzi": "对",
+            "pinyin": "duì",
+            "translation": "bien/correcto"
+        },
+        {
+            "hanzi": "上 课",
+            "pinyin": "shàng kè",
+            "translation": " comienza la clase"
+        },
+        {
+            "hanzi": "下 课",
+            "pinyin": "xià kè",
+            "translation": "se termiñó la clase"
+        },
+        {
+            "hanzi": "休 息",
+            "pinyin": "xiū xi",
+            "translation": "descansar"
+        },
+        {
+            "hanzi": "一起 读",
+            "pinyin": "yīqǐ dú",
+            "translation": "leemos juntos"
+        },
+        {
+            "hanzi": "我不知道",
+            "pinyin": "Wǒ bù zhīdào",
+            "translation": "no se"
+        },
+        {
+            "hanzi": "我懂了",
+            "pinyin": "Wǒ dǒng le",
+            "translation": "entiendo"
+        },
+        {
+            "hanzi": "我不懂",
+            "pinyin": "Wǒ bù dǒng",
+            "translation": "no entiendo"
+        },
+        {
+            "hanzi": "怎么说 ？",
+            "pinyin": "Zěnme shuō",
+            "translation": "como se dice?"
+        },
+        {
+            "hanzi": "再说一遍",
+            "pinyin": " Zài shuō yī biàn",
+            "translation": " dilo otra vez"
+        },
+        {
+            "hanzi": "非常好",
+            "pinyin": "Fēicháng hǎo",
+            "translation": "muy bien"
         }
     ]
 };
