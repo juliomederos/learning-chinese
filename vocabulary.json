@@ -2,13 +2,13 @@
     "vocabulary": [
         {
             "hanzi": "胡利奥",
-            "pinyin": " hú lì ào",
-            "translation": " Julio"
+            "pinyin": "hú lì ào",
+            "translation": "Julio"
         },
         {
             "hanzi": "拼音 是 什么？",
-            "pinyin": " pīnyīn shì shénme?",
-            "translation": " que es el pinyin?"
+            "pinyin": "pīnyīn shì shénme?",
+            "translation": "que es el pinyin?"
         },
         {
             "hanzi": "你好",
@@ -17,13 +17,13 @@
         },
         {
             "hanzi": "谢谢",
-            "pinyin": " xièxiè",
-            "translation": " gracias"
+            "pinyin": "xièxiè",
+            "translation": "gracias"
         },
         {
             "hanzi": "不 客气",
             "pinyin": "bù kèqi",
-            "translation": " de nada"
+            "translation": "de nada"
         },
         {
             "hanzi": "对不起",
@@ -53,7 +53,7 @@
         {
             "hanzi": "好的 / 好 / 行",
             "pinyin": "hǎo  de / hǎo / xíng",
-            "translation": " ok / vale"
+            "translation": "ok / vale"
         },
         {
             "hanzi": "没 问题",
@@ -62,7 +62,7 @@
         },
         {
             "hanzi": "我 不 知道",
-            "pinyin": " wǒ bù zhīdào",
+            "pinyin": "wǒ bù zhīdào",
             "translation": "no lo sé"
         },
         {
@@ -71,7 +71,7 @@
             "translation": "que es esto?"
         },
         {
-            "hanzi": "对 ",
+            "hanzi": "对",
             "pinyin": "duì",
             "translation": "correcto!"
         },
@@ -102,13 +102,13 @@
         },
         {
             "hanzi": "... 怎 么 说 ？",
-            "pinyin": " ... zěn me shuō？",
-            "translation": " ... como se dice?"
+            "pinyin": "... zěn me shuō？",
+            "translation": "... como se dice?"
         },
         {
             "hanzi": "零",
             "pinyin": "líng",
-            "translation": " cero"
+            "translation": "cero"
         },
         {
             "hanzi": "一",
@@ -117,7 +117,7 @@
         },
         {
             "hanzi": "二",
-            "pinyin": " èr",
+            "pinyin": "èr",
             "translation": "dos"
         },
         {
@@ -203,7 +203,7 @@
         {
             "hanzi": "什么",
             "pinyin": "shénme",
-            "translation": " que"
+            "translation": "que"
         },
         {
             "hanzi": "名字",
@@ -228,7 +228,7 @@
         {
             "hanzi": "呢",
             "pinyin": "ne",
-            "translation": " y ... ?"
+            "translation": "y ... ?"
         },
         {
             "hanzi": "请",
@@ -252,13 +252,13 @@
         },
         {
             "hanzi": "你 叫 什么 名字 ？",
-            "pinyin": " nǐ jiào shénme míngzi？",
-            "translation": " como te llamás? Cuál es tu nombre?"
+            "pinyin": "nǐ jiào shénme míngzi？",
+            "translation": "como te llamás? Cuál es tu nombre?"
         },
         {
             "hanzi": "你 姓 什么？",
-            "pinyin": " nǐ Xìng shénme？",
-            "translation": " cual es tu apellido?"
+            "pinyin": "nǐ Xìng shénme？",
+            "translation": "cual es tu apellido?"
         },
         {
             "hanzi": "老师",
@@ -282,8 +282,8 @@
         },
         {
             "hanzi": "你 是 哪里 人？",
-            "pinyin": " nǐ shì nǎli rén？",
-            "translation": " de donde eres?"
+            "pinyin": "nǐ shì nǎli rén？",
+            "translation": "de donde eres?"
         },
         {
             "hanzi": "哪",
@@ -362,8 +362,8 @@
         },
         {
             "hanzi": "你 是 哪 国 人？",
-            "pinyin": " nǐ shì nǎ guó rén？",
-            "translation": " de qué país eres?"
+            "pinyin": "nǐ shì nǎ guó rén？",
+            "translation": "de qué país eres?"
         },
         {
             "hanzi": "古巴",
@@ -423,7 +423,7 @@
         {
             "hanzi": "悉尼",
             "pinyin": "xīní",
-            "translation": " Sidney"
+            "translation": "Sidney"
         },
         {
             "hanzi": "墨尔本",
@@ -433,7 +433,7 @@
         {
             "hanzi": "什么",
             "pinyin": "shén me",
-            "translation": " qué"
+            "translation": "qué"
         },
         {
             "hanzi": "口",
@@ -463,7 +463,7 @@
         {
             "hanzi": "星",
             "pinyin": "xīng",
-            "translation": " estrella"
+            "translation": "estrella"
         },
         {
             "hanzi": "王",
@@ -477,13 +477,13 @@
         },
         {
             "hanzi": "你 做 什么 工作 ？",
-            "pinyin": " nǐ zuò shénme gōngzuò？",
-            "translation": " en qué trabajas"
+            "pinyin": "nǐ zuò shénme gōngzuò？",
+            "translation": "en qué trabajas"
         },
         {
             "hanzi": "女",
             "pinyin": "Nǚ",
-            "translation": " femenino / mujer"
+            "translation": "femenino / mujer"
         },
         {
             "hanzi": "爸爸",
@@ -498,12 +498,12 @@
         {
             "hanzi": "儿子",
             "pinyin": "érzi",
-            "translation": " hijo"
+            "translation": "hijo"
         },
         {
             "hanzi": "女儿",
             "pinyin": "Nǚ'ér",
-            "translation": " hija"
+            "translation": "hija"
         },
         {
             "hanzi": "哥哥",
@@ -562,7 +562,7 @@
         },
         {
             "hanzi": "你 家 有 几 口 人？",
-            "pinyin": " nǐ jiā yǒu jǐ kǒu rén ？",
+            "pinyin": "nǐ jiā yǒu jǐ kǒu rén ？",
             "translation": "tu familia tiene cuántas personas ?"
         },
         {
@@ -708,7 +708,7 @@
         {
             "hanzi": "安",
             "pinyin": "ān",
-            "translation": " paz"
+            "translation": "paz"
         },
         {
             "hanzi": "大",
@@ -733,12 +733,12 @@
         {
             "hanzi": "一个学生",
             "pinyin": "yī gè xuéshēng",
-            "translation": " un estudiante"
+            "translation": "un estudiante"
         },
         {
             "hanzi": "两个学生",
             "pinyin": "Liǎng gè xuéshēng",
-            "translation": " dos estudiantes"
+            "translation": "dos estudiantes"
         },
         {
             "hanzi": "杯",
@@ -752,7 +752,7 @@
         },
         {
             "hanzi": "张",
-            "pinyin": " Zhāng",
+            "pinyin": "Zhāng",
             "translation": "abierto"
         },
         {
@@ -762,7 +762,7 @@
         },
         {
             "hanzi": "朋友",
-            "pinyin": " Péngyǒu",
+            "pinyin": "Péngyǒu",
             "translation": "amigo"
         },
         {
@@ -908,12 +908,12 @@
         {
             "hanzi": "岁",
             "pinyin": "suì",
-            "translation": " años de edad"
+            "translation": "años de edad"
         },
         {
             "hanzi": "你 今年 多 大？",
-            "pinyin": " nǐ jīnnián duō dà？",
-            "translation": " Cuantos años tienes?"
+            "pinyin": "nǐ jīnnián duō dà？",
+            "translation": "Cuantos años tienes?"
         },
         {
             "hanzi": "我 今年 33 岁",
@@ -1033,7 +1033,7 @@
         {
             "hanzi": "上 课",
             "pinyin": "shàng kè",
-            "translation": " comienza la clase"
+            "translation": "comienza la clase"
         },
         {
             "hanzi": "下 课",
@@ -1072,13 +1072,103 @@
         },
         {
             "hanzi": "再说一遍",
-            "pinyin": " Zài shuō yī biàn",
-            "translation": " dilo otra vez"
+            "pinyin": "Zài shuō yī biàn",
+            "translation": "dilo otra vez"
         },
         {
             "hanzi": "非常好",
             "pinyin": "Fēicháng hǎo",
             "translation": "muy bien"
+        },
+        {
+            "hanzi": "现在",
+            "pinyin": "Xiànzài",
+            "translation": "ahora"
+        },
+        {
+            "hanzi": "没 有",
+            "pinyin": "Méiyǒu",
+            "translation": "no tener"
+        },
+        {
+            "hanzi": "几 个",
+            "pinyin": "jǐɡe",
+            "translation": "un (clasificador)"
+        },
+        {
+            "hanzi": "孩子",
+            "pinyin": "háizi",
+            "translation": "hijos"
+        },
+        {
+            "hanzi": "姓名",
+            "pinyin": "xìnɡmínɡ",
+            "translation": "nombre completo"
+        },
+        {
+            "hanzi": "年龄",
+            "pinyin": "niánlínɡ",
+            "translation": "edad"
+        },
+        {
+            "hanzi": "出生",
+            "pinyin": "chūshēnɡ",
+            "translation": "nacer"
+        },
+        {
+            "hanzi": "出生地",
+            "pinyin": "chūshēnɡdì",
+            "translation": "lugar de Nacimiento"
+        },
+        {
+            "hanzi": "国籍",
+            "pinyin": "ɡuójí",
+            "translation": "nacionalidad"
+        },
+        {
+            "hanzi": "电子 邮箱",
+            "pinyin": "diànzǐ yóuxiānɡ",
+            "translation": "email"
+        },
+        {
+            "hanzi": "动物",
+            "pinyin": "dònɡwù",
+            "translation": "animal"
+        },
+        {
+            "hanzi": "熊",
+            "pinyin": "xiónɡ",
+            "translation": "oso"
+        },
+        {
+            "hanzi": "熊猫",
+            "pinyin": "xiónɡmāo",
+            "translation": "oso panda"
+        },
+        {
+            "hanzi": "演员",
+            "pinyin": "yǎnyuán",
+            "translation": "actor"
+        },
+        {
+            "hanzi": "头发",
+            "pinyin": "tóufɑ",
+            "translation": "pelo"
+        },
+        {
+            "hanzi": "长",
+            "pinyin": "chánɡ",
+            "translation": "largo"
+        },
+        {
+            "hanzi": "短",
+            "pinyin": "duǎn",
+            "translation": "corto"
+        },
+        {
+            "hanzi": "个子",
+            "pinyin": "ɡèzi",
+            "translation": "altura"
         }
     ]
 }
