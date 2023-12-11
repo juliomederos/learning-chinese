@@ -1169,6 +1169,91 @@
             "hanzi": "个子",
             "pinyin": "ɡèzi",
             "translation": "altura"
+        },
+        {
+            "hanzi": "下雨",
+            "pinyin": "xiàyǔ",
+            "translation": "lluvia"
+        },
+        {
+            "hanzi": "电话",
+            "pinyin": "diànhuà",
+            "translation": "teléfono"
+        },
+        {
+            "hanzi": "号码",
+            "pinyin": "hàomǎ",
+            "translation": "número"
+        },
+        {
+            "hanzi": "手机",
+            "pinyin": "shǒujī",
+            "translation": "móvil"
+        },
+        {
+            "hanzi": "多少",
+            "pinyin": "duōshǎo",
+            "translation": "cuanto"
+        },
+        {
+            "hanzi": "公园",
+            "pinyin": "ɡōnɡyuán",
+            "translation": "parque"
+        },
+        {
+            "hanzi": "路",
+            "pinyin": "lù",
+            "translation": "ruta/camino/calle"
+        },
+        {
+            "hanzi": "号",
+            "pinyin": "hào",
+            "translation": "número"
+        },
+        {
+            "hanzi": "房间",
+            "pinyin": "fánɡjiān",
+            "translation": "habitacion"
+        },
+        {
+            "hanzi": "楼",
+            "pinyin": "lóu",
+            "translation": "edificio"
+        },
+        {
+            "hanzi": "你 的 电话 号码 是 多 少？",
+            "pinyin": "Ni de diànhuà hàomǎ shì duōshǎo?",
+            "translation": "cual es tu número de teléfono fijo?"
+        },
+        {
+            "hanzi": "你 的 手机 号码 是 多 少？",
+            "pinyin": "Ni de shǒujī hàomǎ shì duōshǎo?",
+            "translation": "cual es tu número de teléfono movil?"
+        },
+        {
+            "hanzi": "两百",
+            "pinyin": "liǎng bǎi",
+            "translation": "200"
+        },
+        {
+            "hanzi": "一百 零  一",
+            "pinyin": " yī/yì bǎi  líng yī/yì",
+            "translation": "101"
+        },
+        {
+            "hanzi": "??",
+            "pinyin": "yāo",
+            "translation": "1 (para numeros seriales ?)"
+        },
+        {
+            "hanzi": "哪儿",
+            "pinyin": "nǎr",
+            "translation": "donde?"
+        },
+        {
+            "hanzi": "你  住 （在） 哪儿 /哪里 ？",
+            "pinyin": " Nǐ  zhù （zài）  nǎr / nǎlǐ ？",
+            "translation": "Donde vives?"
         }
     ]
 }
