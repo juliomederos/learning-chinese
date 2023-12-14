@@ -1254,6 +1254,71 @@
             "hanzi": "你  住 （在） 哪儿 /哪里 ？",
             "pinyin": " Nǐ  zhù （zài）  nǎr / nǎlǐ ？",
             "translation": "Donde vives?"
+        },
+        {
+            "hanzi": "今 天",
+            "pinyin": " jīntiān",
+            "translation": "hoy"
+        },
+        {
+            "hanzi": "明 天",
+            "pinyin": "Míngtiān",
+            "translation": "mañana"
+        },
+        {
+            "hanzi": "昨 天",
+            "pinyin": "zuótiān",
+            "translation": "ayer"
+        },
+        {
+            "hanzi": "星 期",
+            "pinyin": "xīngqī",
+            "translation": "semana"
+        },
+        {
+            "hanzi": "月",
+            "pinyin": "yuè",
+            "translation": "mes"
+        },
+        {
+            "hanzi": "号",
+            "pinyin": "hào",
+            "translation": "día/fecha"
+        },
+        {
+            "hanzi": "生日",
+            "pinyin": "shēngrì",
+            "translation": "cumpleaños"
+        },
+        {
+            "hanzi": "新年",
+            "pinyin": "xīnnián",
+            "translation": "año nuevo"
+        },
+        {
+            "hanzi": "圣诞节",
+            "pinyin": "shèngdàn jié",
+            "translation": "navidad"
+        },
+        {
+            "hanzi": "春节",
+            "pinyin": "chūnjié",
+            "translation": "festival primavera"
+        },
+        {
+            "hanzi": "兔",
+            "pinyin": "Tù",
+            "translation": "conejo"
+        },
+        {
+            "hanzi": "今天 几号？",
+            "pinyin": " Jīntiān jǐ hào?",
+            "translation": " que dia es hoy?"
+        },
+        {
+            "hanzi": "明 天 星期 几 ？",
+            "pinyin": "Míngtiān   xīngqī  jǐ ？",
+            "translation": " mañana que dia de la semana es?"
         }
     ]
 }
