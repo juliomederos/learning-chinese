@@ -1319,6 +1319,381 @@
             "hanzi": "明 天 星期 几 ？",
             "pinyin": "Míngtiān   xīngqī  jǐ ？",
             "translation": " mañana que dia de la semana es?"
+        },
+        {
+            "hanzi": "去",
+            "pinyin": "qù",
+            "translation": "ir"
+        },
+        {
+            "hanzi": "厨房",
+            "pinyin": "chúfánɡ",
+            "translation": "cocina"
+        },
+        {
+            "hanzi": "怎么样",
+            "pinyin": "zěnmeyànɡ",
+            "translation": "como es/que te parece"
+        },
+        {
+            "hanzi": "那里",
+            "pinyin": "nàlǐ",
+            "translation": "allí"
+        },
+        {
+            "hanzi": "中餐",
+            "pinyin": "zhōnɡcān",
+            "translation": "comida china"
+        },
+        {
+            "hanzi": "餐",
+            "pinyin": "cān",
+            "translation": "comida/cocina"
+        },
+        {
+            "hanzi": "餐厅",
+            "pinyin": "cāntīnɡ",
+            "translation": "restaurante"
+        },
+        {
+            "hanzi": "真的",
+            "pinyin": "zhēnde",
+            "translation": "de verdad"
+        },
+        {
+            "hanzi": "吃饭",
+            "pinyin": "chīfàn",
+            "translation": "comer"
+        },
+        {
+            "hanzi": "好吃",
+            "pinyin": "hǎochī",
+            "translation": "delicioso"
+        },
+        {
+            "hanzi": "问题",
+            "pinyin": "wèntí",
+            "translation": "problema; pregunta"
+        },
+        {
+            "hanzi": "请",
+            "pinyin": "qǐnɡ",
+            "translation": "invitar"
+        },
+        {
+            "hanzi": "看",
+            "pinyin": "kàn",
+            "translation": "mirar/ver"
+        },
+        {
+            "hanzi": "电影",
+            "pinyin": "diànyǐnɡ",
+            "translation": "película"
+        },
+        {
+            "hanzi": "书",
+            "pinyin": "shū",
+            "translation": "libro"
+        },
+        {
+            "hanzi": "打",
+            "pinyin": "dǎ",
+            "translation": "jugar (con mano)"
+        },
+        {
+            "hanzi": "跟",
+            "pinyin": "ɡēn",
+            "translation": "con"
+        },
+        {
+            "hanzi": "见面",
+            "pinyin": "jiànmiàn",
+            "translation": "quedar"
+        },
+        {
+            "hanzi": "上班",
+            "pinyin": "shànɡbān",
+            "translation": "trabajar/ ir a trabajo"
+        },
+        {
+            "hanzi": "派对",
+            "pinyin": "pàiduì",
+            "translation": "fiesta"
+        },
+        {
+            "hanzi": "去年",
+            "pinyin": "qùnián",
+            "translation": "el año pasado"
+        },
+        {
+            "hanzi": "明年",
+            "pinyin": "mínɡnián",
+            "translation": "el próximo año"
+        },
+        {
+            "hanzi": "上 个",
+            "pinyin": "shànɡge",
+            "translation": "ultimo"
+        },
+        {
+            "hanzi": "下个",
+            "pinyin": "xiàge",
+            "translation": "próximo"
+        },
+        {
+            "hanzi": "昨天",
+            "pinyin": "zuótiān",
+            "translation": "ayer"
+        },
+        {
+            "hanzi": "今天",
+            "pinyin": "jīntiān",
+            "translation": "hoy"
+        },
+        {
+            "hanzi": "明天",
+            "pinyin": "mínɡtiān",
+            "translation": "mañana"
+        },
+        {
+            "hanzi": "去年",
+            "pinyin": "qùnián",
+            "translation": "el año pasado"
+        },
+        {
+            "hanzi": "今年",
+            "pinyin": "jīnnián",
+            "translation": "este año"
+        },
+        {
+            "hanzi": "明年",
+            "pinyin": "mínɡnián",
+            "translation": "el año que viene/próximo"
+        },
+        {
+            "hanzi": "上个 星期",
+            "pinyin": "shànɡɡe  xīnɡqī",
+            "translation": "la semana pasada"
+        },
+        {
+            "hanzi": "这个 星期",
+            "pinyin": "zhèɡe  xīnɡqī",
+            "translation": "esta semana"
+        },
+        {
+            "hanzi": "下个 星期",
+            "pinyin": "xiàɡe  xīnɡqī",
+            "translation": "la semañana que viene/próxima"
+        },
+        {
+            "hanzi": "上个 月",
+            "pinyin": "shànɡɡe yuè",
+            "translation": "el año pasado"
+        },
+        {
+            "hanzi": "这个 月",
+            "pinyin": "zheɡe yuè",
+            "translation": "este año"
+        },
+        {
+            "hanzi": "下个 月",
+            "pinyin": "xiàɡe yuè",
+            "translation": "el año que viene/próximo"
+        },
+        {
+            "hanzi": "中餐  /中国菜",
+            "pinyin": "zhōnɡcān/zhōnɡɡuócài",
+            "translation": " comida china"
+        },
+        {
+            "hanzi": "西餐",
+            "pinyin": "xīcān",
+            "translation": "comida occidental"
+        },
+        {
+            "hanzi": "你  喜欢    吃   什么    菜   ？",
+            "pinyin": "nǐ  xǐhuɑn  chī  shénme  cài  ？",
+            "translation": "de que pais te gusta la comida?"
+        },
+        {
+            "hanzi": "吃（饭)",
+            "pinyin": "chī(fàn)",
+            "translation": "comer"
+        },
+        {
+            "hanzi": "餐厅/饭馆",
+            "pinyin": "cāntīnɡ/ fànɡuǎn",
+            "translation": "restaurante"
+        },
+        {
+            "hanzi": "好看",
+            "pinyin": "hǎokàn",
+            "translation": "interesante/bonito"
+        },
+        {
+            "hanzi": "你 去哪里/哪儿 ？",
+            "pinyin": "Nǐ qù nǎlǐ / nǎr ？",
+            "translation": " A donde vas?"
+        },
+        {
+            "hanzi": "你 去做什么？",
+            "pinyin": "Nǐ qù zuò shénme？",
+            "translation": "que vas a hacer?"
+        },
+        {
+            "hanzi": "真的  吗？",
+            "pinyin": "zhēnde ma?",
+            "translation": " de verdad?"
+        },
+        {
+            "hanzi": "没问题 !",
+            "pinyin": "Méiwèntí!",
+            "translation": "no tengo preguntas/no tengo problemas"
+        },
+        {
+            "hanzi": "我有一个问题。",
+            "pinyin": "wǒ  yǒu  yíɡè  wèntí。",
+            "translation": " tengo una pregunta"
+        },
+        {
+            "hanzi": "上课",
+            "pinyin": "shànɡkè",
+            "translation": "ir a clase/empezar la clase"
+        },
+        {
+            "hanzi": "下课",
+            "pinyin": "xiàkè",
+            "translation": "salir de clase/terminar la clase"
+        },
+        {
+            "hanzi": "上班",
+            "pinyin": "shànɡbān",
+            "translation": "trabajar/ir a trabajar/empezar a trabajar"
+        },
+        {
+            "hanzi": "下班",
+            "pinyin": "xiàbān",
+            "translation": "salir de trabajar/ terminar de trabajar"
+        },
+        {
+            "hanzi": "我   跟     同学     吃饭    。",
+            "pinyin": "Wǒ  ɡēn  tónɡxué  chīfàn  。",
+            "translation": " yo con mi compalero vamos a comer"
+        },
+        {
+            "hanzi": "中国",
+            "pinyin": "Zhōngguó",
+            "translation": "China"
+        },
+        {
+            "hanzi": "北京",
+            "pinyin": "Běijīng",
+            "translation": "Beijin"
+        },
+        {
+            "hanzi": "汉语",
+            "pinyin": "Hànyǔ",
+            "translation": "Chino (idioma)"
+        },
+        {
+            "hanzi": "天气",
+            "pinyin": "Tiānqì",
+            "translation": "el tiempo meteorologico"
+        },
+        {
+            "hanzi": "飞机",
+            "pinyin": "Fēijī",
+            "translation": "avión"
+        },
+        {
+            "hanzi": "出租车",
+            "pinyin": "Chūzū chē",
+            "translation": "taxi"
+        },
+        {
+            "hanzi": "菜",
+            "pinyin": "Cài",
+            "translation": "verdura"
+        },
+        {
+            "hanzi": "茶",
+            "pinyin": "Chá",
+            "translation": "Té"
+        },
+        {
+            "hanzi": "水",
+            "pinyin": "Shuǐ",
+            "translation": "agua"
+        },
+        {
+            "hanzi": "水果",
+            "pinyin": "Shuǐguǒ",
+            "translation": "fruta"
+        },
+        {
+            "hanzi": "苹果",
+            "pinyin": "Píngguǒ",
+            "translation": "manzana"
+        },
+        {
+            "hanzi": "米饭",
+            "pinyin": "Mǐfàn",
+            "translation": "arroz"
+        },
+        {
+            "hanzi": "上午",
+            "pinyin": "Shàngwǔ",
+            "translation": "la mañana"
+        },
+        {
+            "hanzi": "中午",
+            "pinyin": "Zhōngwǔ",
+            "translation": "el mediodia"
+        },
+        {
+            "hanzi": "下午",
+            "pinyin": "Xiàwǔ",
+            "translation": "la tarde"
+        },
+        {
+            "hanzi": "现在",
+            "pinyin": "Xiànzài",
+            "translation": "Ahora"
+        },
+        {
+            "hanzi": "年",
+            "pinyin": "Nián",
+            "translation": "año"
+        },
+        {
+            "hanzi": "月",
+            "pinyin": "Yuè",
+            "translation": "mes/luna"
+        },
+        {
+            "hanzi": "星期",
+            "pinyin": "Xīngqí",
+            "translation": "semana"
+        },
+        {
+            "hanzi": "日",
+            "pinyin": "Rì",
+            "translation": "dia o fecha"
+        },
+        {
+            "hanzi": "点",
+            "pinyin": "Diǎn",
+            "translation": "en punto/o'clock"
+        },
+        {
+            "hanzi": "分钟",
+            "pinyin": "Fēnzhōng",
+            "translation": "minuto"
+        },
+        {
+            "hanzi": "时候",
+            "pinyin": "Shíhòu",
+            "translation": "momento/tiempo/período"
         }
     ]
 }
